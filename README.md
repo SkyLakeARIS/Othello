@@ -30,5 +30,5 @@ https://docs.popekim.com/ko/coding-standards/cpp
 21'06.13     
 > Project 리포지토리에 종속되어 있던 하위 프로젝트들을 개별 리포지토리를 가지도록 만들었음.    
       
-21'06'20
+21'06.20
 > readme문서 추가에 따른 log.txt, 소스 파일에 기록되었던 개발 내용 이동.
