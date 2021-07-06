@@ -37,3 +37,7 @@ https://docs.popekim.com/ko/coding-standards/cpp
 > 파일이 구 버전인 것을 수정하였음.    
 > 돌을 체크하는 로직(재귀함수)을 개선하였음.    
 > 메세지를 출력하는 과정에서 이전 메세지 출력이 화면에 남는 문제를 임시로 해결하였음.    
+
+
+****    
+![othello](https://blogfiles.pstatic.net/MjAyMTA3MDZfMTU3/MDAxNjI1NTYzNDExNDg0.a4LVmrY9jaxmR9R6W7FeWt2v07qowUPMlc3FWexWgZQg.-UA6mbf701hMKUI0lTMNwe86fnzDVs1YqXhErZDArzQg.PNG.bunkete15/image.png "실행 이미지")
