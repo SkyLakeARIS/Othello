@@ -40,4 +40,7 @@ https://docs.popekim.com/ko/coding-standards/cpp
 
 
 ****    
+## 실행 이미지
 ![othello](https://blogfiles.pstatic.net/MjAyMTA3MDZfMTU3/MDAxNjI1NTYzNDExNDg0.a4LVmrY9jaxmR9R6W7FeWt2v07qowUPMlc3FWexWgZQg.-UA6mbf701hMKUI0lTMNwe86fnzDVs1YqXhErZDArzQg.PNG.bunkete15/image.png "실행 이미지")
+
+![othello2](https://blogfiles.pstatic.net/MjAxOTEyMTBfMzAg/MDAxNTc1OTcxNTU4Mjk4.3zc6p5yXGFYr07ttHPM6EkPOmSp0RSNZ9-B8vLIdlYwg.6UiAjtw6QhkgZoO-RvfzBhbXbcFDjn3P_dntf6a3lbsg.PNG.bunkete15/image.png "실행 이미지2")
