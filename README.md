@@ -4,6 +4,10 @@
 
 코딩 표준 참고 문서     
 https://docs.popekim.com/ko/coding-standards/cpp      
+
+주요 로직에 대한 설명은 아래 링크에 설명이 되어 있습니다.     
+https://blog.naver.com/bunkete15/221733090554     
+     
 ****    
 시작일자 19'11.26    
 완성일자 19'11.28    
